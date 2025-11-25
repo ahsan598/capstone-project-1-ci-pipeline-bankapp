@@ -1,4 +1,4 @@
-# 🚀 Capstone DevOps Project – End-to-End CI/CD on AWS EKS
+# 🚀 Capstone DevSecOps with Jenkins CI/CD, Kubernetes and Monitoring
 
 This Capstone project demonstrates a complete **Cloud + DevOps + Kubernetes** ecosystem including:
 - Terraform for Infrastructure Provisioning
@@ -11,8 +11,6 @@ This Capstone project demonstrates a complete **Cloud + DevOps + Kubernetes** ec
 - Artifact Management using Nexus
 - GitOps-style Manifest Updates for CD
 
-This project mimics a real-world production DevOps pipeline from **Infrastructure → CI → CD → Deployment → Security**.
-
 
 ### 📁 Repository Structure (3 Major Repos)
 
@@ -24,7 +22,7 @@ This project mimics a real-world production DevOps pipeline from **Infrastructur
 
 
 ### Architecture Diagram
-![Architecture](/capstone-project1-ci-pipeline/assets/imgs/capstone_final.jpg)
+![Architecture](/assets/imgs/capstone_final.jpg)
 
 
 ### 🛠 Tools Used
